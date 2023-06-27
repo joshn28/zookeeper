@@ -1,6 +1,6 @@
 # Zookeeper
 
-A fun simple tool for monitoring animals and their status to help a fake local zoo.
+A fun simple tool for monitoring animals and their status that can help a local zoo look after its denizens.
 
 # What I've learned:
 
