@@ -1,4 +1,4 @@
-# zookeeper
+# Zookeeper
 
 A fun simple tool for monitoring animals and their status.
 
